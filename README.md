@@ -1,4 +1,4 @@
-# Hart Jaztin Alejo
+# Jaztin
 
 **Applied AI Engineer Intern at Padovo**  
 BS Information Technology Student · Computer Vision · LLM Engineering · Software Development
